@@ -1,15 +1,12 @@
 {
-  "skoleskyss": {
-    "saksnummer": ""
-  },
   "tilskudd-folkehelse": {
-    "saksnummer": ""
+    "saksnummer": "16/07504"
   },
   "tilskudd-idrett": {
     "saksnummer": ""
   },
   "tilskudd-kultur-billedkunst": {
-    "saksnummer": ""
+    "saksnummer": "16/07503"
   },
   "tilskudd-kultur-film": {
     "saksnummer": ""
@@ -21,9 +18,9 @@
     "saksnummer": ""
   },
   "tilskudd-kultur-musikk": {
-    "saksnummer": ""
+    "saksnummer": "16/07501"
   },
   "tilskudd-kultur-scenekunst": {
-    "saksnummer": ""
+    "saksnummer": "16/07502"
   }
 }
