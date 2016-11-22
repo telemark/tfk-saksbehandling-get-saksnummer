@@ -1,26 +1,74 @@
 {
   "tilskudd-folkehelse": {
-    "saksnummer": "16/07504"
+    "saksnummer": "16/07504",
+    "saksbehandler": {
+      "tittel": "rådgiver",
+      "navn": "Heidi Hamadi",
+      "epost": "heidi.hamadi@t-fk.no",
+      "telefon": "35 91 71 26"
+    }
   },
   "tilskudd-idrett": {
-    "saksnummer": ""
+    "saksnummer": "",
+    "saksbehandler": {
+      "tittel": "",
+      "navn": "",
+      "epost": "",
+      "telefon": ""
+    }
   },
   "tilskudd-kultur-billedkunst": {
-    "saksnummer": "16/07503"
+    "saksnummer": "16/07503",
+    "saksbehandler": {
+      "tittel": "",
+      "navn": "",
+      "epost": "",
+      "telefon": ""
+    }
   },
   "tilskudd-kultur-film": {
-    "saksnummer": ""
+    "saksnummer": "",
+    "saksbehandler": {
+      "tittel": "",
+      "navn": "",
+      "epost": "",
+      "telefon": ""
+    }
   },
   "tilskudd-kultur-kulturarv": {
-    "saksnummer": ""
+    "saksnummer": "",
+    "saksbehandler": {
+      "tittel": "",
+      "navn": "",
+      "epost": "",
+      "telefon": ""
+    }
   },
   "tilskudd-kultur-litteratur": {
-    "saksnummer": ""
+    "saksnummer": "",
+    "saksbehandler": {
+      "tittel": "rådgiver",
+      "navn": "",
+      "epost": "",
+      "telefon": ""
+    }
   },
   "tilskudd-kultur-musikk": {
-    "saksnummer": "16/07501"
+    "saksnummer": "16/07501",
+    "saksbehandler": {
+      "tittel": "",
+      "navn": "",
+      "epost": "",
+      "telefon": ""
+    }
   },
   "tilskudd-kultur-scenekunst": {
-    "saksnummer": "16/07502"
+    "saksnummer": "16/07502",
+    "saksbehandler": {
+      "tittel": "",
+      "navn": "",
+      "epost": "",
+      "telefon": ""
+    }
   }
 }
