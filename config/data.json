@@ -11,64 +11,64 @@
   "tilskudd-idrett": {
     "saksnummer": "",
     "saksbehandler": {
-      "tittel": "",
-      "navn": "",
-      "epost": "",
-      "telefon": ""
+      "tittel": "idrettskonsulent",
+      "navn": "Marte Aksnes",
+      "epost": "marte.aksnes@t-fk.no",
+      "telefon": "35 91 72 79 / 91 52 52 78"
     }
   },
   "tilskudd-kultur-billedkunst": {
     "saksnummer": "16/07503",
     "saksbehandler": {
-      "tittel": "",
-      "navn": "",
-      "epost": "",
-      "telefon": ""
+      "tittel": "rådgiver",
+      "navn": "Line Ruud Ørslien",
+      "epost": "line-ruud.orslien@t-fk.no",
+      "telefon": "35 91 73 37 / 99 52 52 09"
     }
   },
   "tilskudd-kultur-film": {
     "saksnummer": "",
     "saksbehandler": {
-      "tittel": "",
-      "navn": "",
-      "epost": "",
-      "telefon": ""
+      "tittel": "rådgiver",
+      "navn": "Line Ruud Ørslien",
+      "epost": "line-ruud.orslien@t-fk.no",
+      "telefon": "35 91 73 37 / 99 52 52 09"
     }
   },
   "tilskudd-kultur-kulturarv": {
     "saksnummer": "",
     "saksbehandler": {
-      "tittel": "",
-      "navn": "",
-      "epost": "",
-      "telefon": ""
+      "tittel": "rådgiver",
+      "navn": "Line Ruud Ørslien",
+      "epost": "line-ruud.orslien@t-fk.no",
+      "telefon": "35 91 73 37 / 99 52 52 09"
     }
   },
   "tilskudd-kultur-litteratur": {
     "saksnummer": "",
     "saksbehandler": {
       "tittel": "rådgiver",
-      "navn": "",
-      "epost": "",
-      "telefon": ""
+      "navn": "Line Ruud Ørslien",
+      "epost": "line-ruud.orslien@t-fk.no",
+      "telefon": "35 91 73 37 / 99 52 52 09"
     }
   },
   "tilskudd-kultur-musikk": {
     "saksnummer": "16/07501",
     "saksbehandler": {
-      "tittel": "",
-      "navn": "",
-      "epost": "",
-      "telefon": ""
+      "tittel": "musikkprodusent",
+      "navn": "Frøydis Aslesen",
+      "epost": "froydis.aslesen@t-fk.no",
+      "telefon": "35 91 72 76 / 98 62 05 94"
     }
   },
   "tilskudd-kultur-scenekunst": {
     "saksnummer": "16/07502",
     "saksbehandler": {
-      "tittel": "",
-      "navn": "",
-      "epost": "",
-      "telefon": ""
+      "tittel": "rådgiver",
+      "navn": "Thorild Osdalen",
+      "epost": "thorild.osdalen@t-fk.no",
+      "telefon": "35 91 74 18 / 99 62 09 72"
     }
   }
 }
