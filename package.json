@@ -1,7 +1,7 @@
 {
   "name": "tfk-saksbehandling-get-saksnummer",
-  "version": "1.1.5",
-  "description": "Henter saksnummer",
+  "version": "1.1.6",
+  "description": "Henter saksnummer og data",
   "license": "MIT",
   "author": {
     "name": "Geir Gåsodden",

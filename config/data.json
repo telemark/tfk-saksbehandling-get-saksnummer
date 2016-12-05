@@ -1,6 +1,10 @@
 {
   "tilskudd-folkehelse": {
     "saksnummer": "16/13667",
+    "utvalg": {
+      "navn": "Hovedutvalg for kultur, idrett og folkehelse",
+      "dato": "15. mars 2017"
+    },
     "saksbehandler": {
       "tittel": "rådgiver",
       "navn": "Heidi Hamadi",
@@ -10,6 +14,10 @@
   },
   "tilskudd-idrett": {
     "saksnummer": "16/13816",
+    "utvalg": {
+      "navn": "Hovedutvalg for kultur, idrett og folkehelse",
+      "dato": "15. mars 2017"
+    },
     "saksbehandler": {
       "tittel": "idrettskonsulent",
       "navn": "Marte Aksnes",
@@ -19,6 +27,10 @@
   },
   "tilskudd-kultur-billedkunst": {
     "saksnummer": "16/13755",
+    "utvalg": {
+      "navn": "Hovedutvalg for kultur, idrett og folkehelse",
+      "dato": "15. mars 2017"
+    },
     "saksbehandler": {
       "tittel": "rådgiver",
       "navn": "Line Ruud Ørslien",
@@ -28,6 +40,10 @@
   },
   "tilskudd-kultur-film": {
     "saksnummer": "16/13756",
+    "utvalg": {
+      "navn": "Hovedutvalg for kultur, idrett og folkehelse",
+      "dato": "15. mars 2017"
+    },
     "saksbehandler": {
       "tittel": "rådgiver",
       "navn": "Line Ruud Ørslien",
@@ -37,6 +53,10 @@
   },
   "tilskudd-kultur-kulturarv": {
     "saksnummer": "16/13759",
+    "utvalg": {
+      "navn": "Hovedutvalg for kultur, idrett og folkehelse",
+      "dato": "15. mars 2017"
+    },
     "saksbehandler": {
       "tittel": "rådgiver",
       "navn": "Line Ruud Ørslien",
@@ -46,6 +66,10 @@
   },
   "tilskudd-kultur-litteratur": {
     "saksnummer": "16/13757",
+    "utvalg": {
+      "navn": "Hovedutvalg for kultur, idrett og folkehelse",
+      "dato": "15. mars 2017"
+    },
     "saksbehandler": {
       "tittel": "rådgiver",
       "navn": "Line Ruud Ørslien",
@@ -55,6 +79,10 @@
   },
   "tilskudd-kultur-musikk": {
     "saksnummer": "16/13780",
+    "utvalg": {
+      "navn": "Hovedutvalg for kultur, idrett og folkehelse",
+      "dato": "15. mars 2017"
+    },
     "saksbehandler": {
       "tittel": "musikkprodusent",
       "navn": "Frøydis Aslesen",
@@ -64,6 +92,10 @@
   },
   "tilskudd-kultur-scenekunst": {
     "saksnummer": "16/13782",
+    "utvalg": {
+      "navn": "Hovedutvalg for kultur, idrett og folkehelse",
+      "dato": "15. mars 2017"
+    },
     "saksbehandler": {
       "tittel": "rådgiver",
       "navn": "Thorild Osdalen",
