@@ -16,5 +16,8 @@ console.log(getSaksnummer('skoleskyss')) // data for skoleskyss
 console.log(getSaksnummer()) // data for all cases
 ```
 
+## Maintenance
+[vedlikehold](vedlikehold.md)
+
 ## License
 [MIT](LICENSE)
