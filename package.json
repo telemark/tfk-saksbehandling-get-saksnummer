@@ -1,6 +1,6 @@
 {
   "name": "tfk-saksbehandling-get-saksnummer",
-  "version": "1.1.11",
+  "version": "1.1.12",
   "description": "Henter saksnummer og data",
   "license": "MIT",
   "author": {
