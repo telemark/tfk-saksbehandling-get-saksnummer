@@ -10,7 +10,7 @@
   },
   "main": "index.js",
   "engines": {
-    "node": ">=8.4.0"
+    "node": ">=8.10.0"
   },
   "scripts": {
     "test": "standard && nsp check && tap --reporter=spec test/**/*.js",
@@ -18,8 +18,8 @@
     "coverage": "tap test/**/*.js --coverage",
     "coveralls": "tap --cov --coverage-report=lcov test/**/*.js && cat coverage/lcov.info | coveralls",
     "start": "node index.js",
-    "setup": "npm install",
-    "standard-fix": "standard --fix"
+    "standard-fix": "standard --fix",
+    "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
   },
   "keywords": [
     "Tfk",
@@ -29,12 +29,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/telemark/tfk-saksbehandling-get-saksnummer.git"
+    "url": "git+https://github.com/telemark/tfk-saksbehandling-get-saksnummer.git"
   },
   "bugs": {
     "url": "https://github.com/telemark/tfk-saksbehandling-get-saksnummer/issues"
   },
-  "homepage": "https://github.com/telemark/tfk-saksbehandling-get-saksnummer",
+  "homepage": "https://github.com/telemark/tfk-saksbehandling-get-saksnummer#readme",
   "devDependencies": {
     "nsp": "3.2.1",
     "coveralls": "3.0.0",
