@@ -37,7 +37,7 @@
   "homepage": "https://github.com/telemark/tfk-saksbehandling-get-saksnummer#readme",
   "devDependencies": {
     "nsp": "3.2.1",
-    "coveralls": "3.0.1",
+    "coveralls": "3.0.2",
     "standard": "11.0.1",
     "tap": "12.0.1"
   }
