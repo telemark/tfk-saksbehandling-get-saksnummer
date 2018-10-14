@@ -1,10 +1,10 @@
 {
   "tilskudd-folkehelse": {
-    "saksnummer": "18/04690",
-    "aar": "2018",
+    "saksnummer": "18/11933",
+    "aar": "2019",
     "utvalg": {
       "navn": "Hovedutvalg for kultur, idrett og folkehelse",
-      "dato": "september 2018"
+      "dato": "mars 2019"
     },
     "saksbehandler": {
       "tittel": "rådgiver",
@@ -14,11 +14,11 @@
     }
   },
   "tilskudd-idrett": {
-    "saksnummer": "18/04727",
-    "aar": "2018",
+    "saksnummer": "18/11952",
+    "aar": "2019",
     "utvalg": {
       "navn": "Hovedutvalg for kultur, idrett og folkehelse",
-      "dato": "september 2018"
+      "dato": "mars 2019"
     },
     "saksbehandler": {
       "tittel": "Fylkesidrettskonsulent / Team Folkehelse, idrett og friluftsliv",
@@ -28,11 +28,11 @@
     }
   },
   "tilskudd-kultur-billedkunst": {
-    "saksnummer": "18/04675",
-    "aar": "2018",
+    "saksnummer": "18/11899",
+    "aar": "2019",
     "utvalg": {
       "navn": "Hovedutvalg for kultur, idrett og folkehelse",
-      "dato": "september 2018"
+      "dato": "mars 2019"
     },
     "saksbehandler": {
       "tittel": "rådgiver",
@@ -42,25 +42,11 @@
     }
   },
   "tilskudd-kultur-film": {
-    "saksnummer": "18/04676",
-    "aar": "2018",
+    "saksnummer": "18/11900",
+    "aar": "2019",
     "utvalg": {
       "navn": "Hovedutvalg for kultur, idrett og folkehelse",
-      "dato": "september 2018"
-    },
-    "saksbehandler": {
-      "tittel": "rådgiver",
-      "navn": "Line Ruud Ørslien",
-      "epost": "line-ruud.orslien@t-fk.no",
-      "telefon": "35 91 73 37 / 995 25 209"
-    }
-  },
-  "tilskudd-kultur-kulturarv": {
-    "saksnummer": "18/04678",
-    "aar": "2018",
-    "utvalg": {
-      "navn": "Hovedutvalg for kultur, idrett og folkehelse",
-      "dato": "september 2018"
+      "dato": "mars 2019"
     },
     "saksbehandler": {
       "tittel": "rådgiver",
@@ -70,11 +56,11 @@
     }
   },
   "tilskudd-kultur-litteratur": {
-    "saksnummer": "18/04677",
-    "aar": "2018",
+    "saksnummer": "18/11901",
+    "aar": "2019",
     "utvalg": {
       "navn": "Hovedutvalg for kultur, idrett og folkehelse",
-      "dato": "september 2018"
+      "dato": "mars 2019"
     },
     "saksbehandler": {
       "tittel": "rådgiver",
@@ -84,11 +70,11 @@
     }
   },
   "tilskudd-kultur-musikk": {
-    "saksnummer": "18/04710",
-    "aar": "2018",
+    "saksnummer": "18/11905",
+    "aar": "2019",
     "utvalg": {
       "navn": "Hovedutvalg for kultur, idrett og folkehelse",
-      "dato": "september 2018"
+      "dato": "mars 2019"
     },
     "saksbehandler": {
       "tittel": "musikkprodusent",
@@ -98,11 +84,11 @@
     }
   },
   "tilskudd-kultur-scenekunst": {
-    "saksnummer": "18/04798",
-    "aar": "2018",
+    "saksnummer": "18/11910",
+    "aar": "2019",
     "utvalg": {
       "navn": "Hovedutvalg for kultur, idrett og folkehelse",
-      "dato": "september 2018"
+      "dato": "mars 2019"
     },
     "saksbehandler": {
       "tittel": "rådgiver",

@@ -5,7 +5,7 @@ Denne modulen må oppdateres 2 ganger i året: november og januar.
 I hovedsak er det [data.json](config/data.json) som må få nye saksnummer, opplysninger om møtedato og eventuelt nye kontaktpersoner.
 
 ## Forutsetninger
-- Du har Node 8.x.x installert på maskinen
+- Du har Node 10.x.x installert på maskinen
 - Du har git satt opp
 - Du har Visual Studio Code installert
 - Du har installert [release](https://www.npmjs.com/package/release) globalt

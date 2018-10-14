@@ -25,5 +25,3 @@ console.log(getSaksnummer()) // data for all cases
 ## License
 
 [MIT](LICENSE)
-
-![Robohash image of tfk-saksbehandling-get-saksnummer](https://robots.kebabstudios.party/tfk-saksbehandling-get-saksnummer.png "Robohash image of tfk-saksbehandling-get-saksnummer")
