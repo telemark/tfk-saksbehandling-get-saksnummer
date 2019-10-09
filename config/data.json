@@ -1,10 +1,10 @@
 {
   "tilskudd-folkehelse": {
-    "saksnummer": "19/07103",
-    "aar": "2019",
+    "saksnummer": "19/16117",
+    "aar": "2020",
     "utvalg": {
       "navn": "Hovedutvalg for kultur, idrett og folkehelse",
-      "dato": "september 2019"
+      "dato": "februar 2020"
     },
     "saksbehandler": {
       "tittel": "rådgiver",
@@ -15,10 +15,10 @@
   },
   "tilskudd-idrett": {
     "saksnummer": "19/07113",
-    "aar": "2019",
+    "aar": "2020",
     "utvalg": {
       "navn": "Hovedutvalg for kultur, idrett og folkehelse",
-      "dato": "september 2019"
+      "dato": "februar 2019"
     },
     "saksbehandler": {
       "tittel": "Fylkesidrettskonsulent / Team Folkehelse, idrett og friluftsliv",
@@ -27,88 +27,18 @@
       "telefon": "35 91 74 32 / 992 76 530"
     }
   },
-  "tilskudd-kultur-billedkunst": {
-    "saksnummer": "19/07177",
-    "aar": "2019",
+  "tilskudd-kultur": {
+    "saksnummer": "19/16242",
+    "aar": "2020",
     "utvalg": {
       "navn": "Hovedutvalg for kultur, idrett og folkehelse",
-      "dato": "september 2019"
+      "dato": "februar 2019"
     },
     "saksbehandler": {
       "tittel": "rådgiver",
       "navn": "Line Ruud Ørslien",
       "epost": "line-ruud.orslien@t-fk.no",
       "telefon": "35 91 73 37 / 995 25 209"
-    }
-  },
-  "tilskudd-kultur-film": {
-    "saksnummer": "19/07178",
-    "aar": "2019",
-    "utvalg": {
-      "navn": "Hovedutvalg for kultur, idrett og folkehelse",
-      "dato": "september 2019"
-    },
-    "saksbehandler": {
-      "tittel": "rådgiver",
-      "navn": "Line Ruud Ørslien",
-      "epost": "line-ruud.orslien@t-fk.no",
-      "telefon": "35 91 73 37 / 995 25 209"
-    }
-  },
-  "tilskudd-kultur-kulturarv": {
-    "saksnummer": "19/07179",
-    "aar": "2019",
-    "utvalg": {
-      "navn": "Hovedutvalg for kultur, idrett og folkehelse",
-      "dato": "september 2019"
-    },
-    "saksbehandler": {
-      "tittel": "rådgiver",
-      "navn": "Line Ruud Ørslien",
-      "epost": "line-ruud.orslien@t-fk.no",
-      "telefon": "35 91 73 37 / 995 25 209"
-    }
-  },
-  "tilskudd-kultur-litteratur": {
-    "saksnummer": "19/07180",
-    "aar": "2019",
-    "utvalg": {
-      "navn": "Hovedutvalg for kultur, idrett og folkehelse",
-      "dato": "september 2019"
-    },
-    "saksbehandler": {
-      "tittel": "rådgiver",
-      "navn": "Line Ruud Ørslien",
-      "epost": "line-ruud.orslien@t-fk.no",
-      "telefon": "35 91 73 37 / 995 25 209"
-    }
-  },
-  "tilskudd-kultur-musikk": {
-    "saksnummer": "19/07133",
-    "aar": "2019",
-    "utvalg": {
-      "navn": "Hovedutvalg for kultur, idrett og folkehelse",
-      "dato": "september 2019"
-    },
-    "saksbehandler": {
-      "tittel": "musikkprodusent",
-      "navn": "Rønnaug Flatin",
-      "epost": "ronnaug.flatin@t-fk.no",
-      "telefon": "918 62 363 / 918 62 363"
-    }
-  },
-  "tilskudd-kultur-scenekunst": {
-    "saksnummer": "19/07192",
-    "aar": "2019",
-    "utvalg": {
-      "navn": "Hovedutvalg for kultur, idrett og folkehelse",
-      "dato": "september 2019"
-    },
-    "saksbehandler": {
-      "tittel": "rådgiver",
-      "navn": "Thorild Osdalen",
-      "epost": "thorild.osdalen@t-fk.no",
-      "telefon": "35 91 74 18 / 996 20 972"
     }
   }
 }
